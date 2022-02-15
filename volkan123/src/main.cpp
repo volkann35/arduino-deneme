@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+int a;
 void setup() {
   // put your setup code here, to run once:
 }
